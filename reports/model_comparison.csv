@@ -1,0 +1,4 @@
+Algorithm,Accuracy,Precision,Recall,F1 Score
+Logistic Regression,93.33,93.33,93.33,93.33
+Decision Tree,93.33,93.33,93.33,93.33
+Random Forest,93.33,93.33,93.33,93.33
