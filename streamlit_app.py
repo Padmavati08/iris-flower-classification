@@ -32,11 +32,6 @@ st.write(
     "a trained Random Forest Machine Learning model."
 )
 
-st.info(
-    "This application recognizes only three species: "
-    "Setosa, Versicolor and Virginica. "
-    "It cannot identify other Iris species."
-)
 
 st.subheader("Enter Flower Measurements")
 
